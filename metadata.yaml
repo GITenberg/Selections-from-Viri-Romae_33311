@@ -28,6 +28,8 @@ creator:
 description: '"The material is taken from the works of various authors, chiefly Livy
   and Eutropius, but was simplified by Lhomond [sic] in vocabulary and construction
   whenever necessary to fit the requirements of beginners"--P. iv.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33311#Selections-from-Viri-Romae
 gutenberg_issued: '2010-08-01'
 gutenberg_type: Text
 identifiers:
