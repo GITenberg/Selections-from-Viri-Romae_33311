@@ -1,0 +1,46 @@
+_repo: Selections-from-Viri-Romae_33311
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: L'Homond, C. F.
+    aliases:
+    - Lhomond, Charles François
+    - L'Homond, Charles François
+    - L'Homond, Charles Francois
+    birthdate: 1727
+    deathdate: 1794
+    gutenberg_agent_id: '36330'
+    url: http://www.gutenberg.org/2009/agents/36330
+  editors:
+  - agent_name: Arrowsmith, Robert
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '36324'
+    url: http://www.gutenberg.org/2009/agents/36324
+  - agent_name: Knapp, Charles
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '36325'
+    url: http://www.gutenberg.org/2009/agents/36325
+description: '"The material is taken from the works of various authors, chiefly Livy
+  and Eutropius, but was simplified by Lhomond [sic] in vocabulary and construction
+  whenever necessary to fit the requirements of beginners"--P. iv.'
+gutenberg_issued: '2010-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33311'
+  lccn: 03023929
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Latin language -- Readers -- Biography'
+title: Selections from Viri Romae
+url: http://www.gutenberg.org/ebooks/33311
